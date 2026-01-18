@@ -21,9 +21,9 @@
 
 **推荐组合**：海外服务器 + 域名 + gost + Cloudflare WARP（可用300 元腾讯云体验券）
 1. **方式一**：腾讯云新加坡服务器 + 域名 + gost + Cloudflare WARP
-	可参考：haoel 的「机场 vs 自建」整理思路 ([GitHub](https://github.com/haoel/haoel.github.io?utm_source=chatgpt.com))
 2. **方式二**：自带美国住宅 IP 的 VPS（如[Lisahost](https://lisahost.com/aff.php?aff=7066)） + 域名 + gost
-	同样可参考：haoel 的「机场 vs 自建」 ([GitHub](https://github.com/haoel/haoel.github.io?utm_source=chatgpt.com))
+	
+> 可参考：haoel 的「机场 vs 自建」 ([GitHub](https://github.com/haoel/haoel.github.io?utm_source=chatgpt.com))
 
 
 ### 付费机场（不推荐）
@@ -58,6 +58,3 @@
 ## 7) 为什么还要用 Claude Code？没有其他 AI 编程工具平替么？
 
 - 额……
-
-----
-来的.....
