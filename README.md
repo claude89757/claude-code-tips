@@ -23,7 +23,7 @@
 1. **方式一**：腾讯云新加坡服务器 + 域名 + gost + Cloudflare WARP
 2. **方式二**：自带美国住宅 IP 的 VPS（如[Lisahost](https://lisahost.com/aff.php?aff=7066)） + 域名 + gost
 	
-> 可参考：haoel 的「机场 vs 自建」 ([GitHub](https://github.com/haoel/haoel.github.io?utm_source=chatgpt.com))
+> 可参考：haoel 的「机场 vs 自建」 ([GitHub](https://github.com/haoel/haoel.github.io?utm_source=chatgpt.com))，这个教程比较多文字，但建议耐心看完
 
 
 ### 付费机场（不推荐）
@@ -50,9 +50,9 @@
 
 ## 7) 关于退款
 
-- Apple Store订阅方式退款：可以通过 Apple 的退款入口提交申请（一般第一次更容易成功；多次申请可能不一定通过，具体以审核为准） 入口 [Apple 支持](https://reportaproblem.apple.com/status)
+- Apple Store订阅方式退款：提交退款申请（一般第一次更容易成功；多次申请可能不一定通过，具体以审核为准） 入口 [Apple 支持](https://reportaproblem.apple.com/status)
 
-- Anthropic官方网站订阅方式退款：帮助中心右下角聊天入口提交工单，入口 [claude-support](https://support.claude.com/en/articles/9015913-how-to-get-support)
+- Anthropic官方网站订阅方式退款：提交工单（帮助中心右下角聊天入口），入口 [claude-support](https://support.claude.com/en/articles/9015913-how-to-get-support)
 
 
 > **个人真实案例**：
