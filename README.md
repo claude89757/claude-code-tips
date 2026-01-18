@@ -44,10 +44,15 @@
 
 
 ----
-## 6) 关于封号和退款
+## 6) 关于封号
 
-- **封号条件**：确实比较“玄学”。个人感受是：**拼车的封号风险最高**；单人使用相对稳定，但也更贵（付费上班～）。
-- **封号后退款（Apple 订阅）**：可以通过 Apple 的退款入口提交申请（一般第一次更容易成功；多次申请可能不一定通过，具体以审核为准）。([Apple 支持](https://support.apple.com/en-us/118223?utm_source=chatgpt.com))
+- **封号条件**：确实比较“玄学”。个人感受是：**拼车的封号风险最高**；单人使用相对稳定，但也更贵（付费上班～）
+
+## 7) 关于退款
+
+- Apple Store订阅方式退款：可以通过 Apple 的退款入口提交申请（一般第一次更容易成功；多次申请可能不一定通过，具体以审核为准） ([Apple 支持]([https://support.apple.com/en-us/118223?utm_source=chatgpt.com)](https://reportaproblem.apple.com/status))
+
+- Anthropic官方网站订阅方式退款：帮助中心右下角聊天入口提交工单：[claude-support](https://support.claude.com/en/articles/9015913-how-to-get-support)
 
 
 > **个人真实案例**：
