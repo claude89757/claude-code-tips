@@ -50,7 +50,7 @@
 
 ## 7) 关于退款
 
-- Apple Store订阅方式退款：可以通过 Apple 的退款入口提交申请（一般第一次更容易成功；多次申请可能不一定通过，具体以审核为准） ([Apple 支持]([https://support.apple.com/en-us/118223?utm_source=chatgpt.com)](https://reportaproblem.apple.com/status))
+- Apple Store订阅方式退款：可以通过 Apple 的退款入口提交申请（一般第一次更容易成功；多次申请可能不一定通过，具体以审核为准） [Apple 支持](https://support.apple.com/en-us/118223?utm_source=chatgpt.com)](https://reportaproblem.apple.com/status)
 
 - Anthropic官方网站订阅方式退款：帮助中心右下角聊天入口提交工单：[claude-support](https://support.claude.com/en/articles/9015913-how-to-get-support)
 
