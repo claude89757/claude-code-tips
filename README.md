@@ -35,7 +35,7 @@
 
 **自建（推荐：更可控）**
 
-- **方式一**：腾讯云新加坡LH服务器 + 域名 + gost + Cloudflare WARP  （可用300 元腾讯云体验券）
+- **方式一**：腾讯云新加坡LH服务器 + 域名 + gost + Cloudflare WARP  
 - **方式二**：自带美国住宅 IP 的 VPS + 域名 + gost（部分自带 `纯净IP` 的 VPS，可免短信验证注册 claude 账号，如lisahost、yinnet）
 
 > 可参考：haoel 的「机场 vs 自建」 ([GitHub](https://github.com/haoel/haoel.github.io?utm_source=chatgpt.com))，这个教程比较多文字，但建议耐心看完
