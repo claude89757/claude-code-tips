@@ -49,7 +49,7 @@
 ----
 ## 4) 短信验证码
 
-- **接码平台**：[SMSPool](https://www.smspool.net/purchase/sms)（自己一直在用；有些平台可能收不到 anthropic 的验证码）
+- **接码平台**：[SMSPool](https://smspool.net/?r=lu1JNrfS0o)（自己一直在用；有些平台可能收不到 anthropic 的验证码）
 
 - **免短信验证码注册技巧**  
 	1. 使用 iOS Claude App 通过 Apple 登录，使用私密转发邮箱（待验证）
