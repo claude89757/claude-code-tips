@@ -11,7 +11,7 @@
 - 2026-04-08 anthropic 官网申请了 extra usage, 薅送的200美金额度（⚠️）
 - 2026-04-07 清明假期在家用新电脑上使用cc(sub2api) ⚠️
 - 2026-03-11
-	平时一直在 Mac 本地使用 Claude Code + sub2api，最近改到 DevCloud 机器上使用。结果当天凌晨账号被封，而且还连带封了一些同邮箱后缀的号，连订阅早已过期、很久没用的账号也被波及。
+	平时一直在 Mac 本地使用 Claude Code + sub2api，最近改到服务器上使用。结果当天凌晨账号被封，而且还连带封了一些同邮箱后缀的号，连订阅早已过期、很久没用的账号也被波及。
 	> 目前怀疑与使用环境突然变化，以及本地和云端两种完全不同环境同时使用有关，这类特征可能更容易触发风控。
 	> 另外，封号邮件和退款邮件一起发了
 - 2026-03-04 这1个月没有被封号，没有拼车；代理使用自建；claude账号也在公司内网直接登录使用
@@ -55,7 +55,7 @@
 
 **自建（推荐：更可控）**
 
-- **方式一**：腾讯云新加坡LH服务器 + 域名 + gost + Cloudflare WARP  （可用300 元腾讯云体验券）
+- **方式一**：腾讯云新加坡LH服务器 + 域名 + gost + Cloudflare WARP
 - **方式二**：自带美国住宅 IP 的 VPS + 域名 + gost（部分自带 `纯净IP` 的 VPS，可免短信验证注册 claude 账号，如lisahost、yinnet（偶尔又需要验证码，不稳定）
 
 > 可参考：haoel 的「机场 vs 自建」 ([GitHub](https://github.com/haoel/haoel.github.io?utm_source=chatgpt.com))，这个教程比较多文字，但建议耐心看完
@@ -104,10 +104,6 @@
 > apple账号退款的钱，可以用于充其他claude/openai账号会员，但建议等一定时间后操作（3-7天？），但强烈不建议同一个苹果账号在被封号退款后，再重复订阅claude，因为第二次不退款的概括非常小！
 
 - Anthropic官网订阅方式退款：提交工单（帮助中心右下角聊天入口），入口 [Claude-Support](https://support.claude.com/en/articles/9015913-how-to-get-support)
-
-
-> **个人真实案例**：
-> 一个 Apple 账号订阅了 Max，用了一段时间后被封号；退款全退回到 Apple 账号余额中。短期内该 Apple 账号无法继续为其他 anthropic 账号开 Max，过一段时间后又恢复可用。(这个号又第二天立刻被封了（用的 lisahost 的住宅 IP，但也可能由于之前被封过）....)
 
 ----
 
