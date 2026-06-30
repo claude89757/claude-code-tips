@@ -99,7 +99,7 @@
 
 ## 关于退款
 
-- Apple Store订阅方式退款：提交退款申请（一般第一次更容易成功；多次申请可能不一定通过，具体以审核为准） 入口 [Apple 支持](https://reportaproblem.apple.com/)
+- Apple Store订阅方式退款：提交退款申请（一般第一次更容易成功；多次申请可能不一定通过，具体以审核为准） 入口 [Apple 支持](https://support.apple.com/zh-cn/118223)
 
 > apple账号退款的钱，可以用于充其他claude/openai账号会员，但建议等一定时间后操作（3-7天？），但强烈不建议同一个苹果账号在被封号退款后，再重复订阅claude，因为第二次不退款的概括非常小！
 
